@@ -49,7 +49,7 @@ Once the final string is ready, the turtle reads through it character by charact
 * `F` → move forward (and pick up the next gradient color)
 * `+` → turn right by your chosen angle
 * `-` → turn left by your chosen angle
-* `\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[` → save current position + direction
+* `[` → save current position + direction
 * `]` → jump back to the last saved position + direction
 
 ## How to run it
