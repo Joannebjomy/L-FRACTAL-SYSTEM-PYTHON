@@ -79,11 +79,11 @@ Here are a few for you to get started:
 
 ## Output
 
-This is a simple Koch curve
+Simple Koch curve:
 
 !\[Simple Koch Curve](screenshots/koch\_curve.png)
 
-A KOCH SNOWFLAKE:
+Koch Snowflake:
 
 (I have changed the step from 15 to 5 for this so that the pattern will be completely visible)
 
