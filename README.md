@@ -81,19 +81,17 @@ Here are a few for you to get started:
 
 Simple Koch curve:
 
-!\[Simple Koch Curve](screenshots/koch\_curve.png)
+![Simple Koch Curve](screenshots/koch_curve.png)
 
 Koch Snowflake:
 
 (I have changed the step from 15 to 5 for this so that the pattern will be completely visible)
-
-!\[Koch Snowflake](screenshots/koch\_snowflake.png)
+![Koch Snowflake](screenshots/koch_snowflake.png)
 
 Minkowski Sausage / Quadratic Koch Island:
 
-!\[Minkowski Sausage](screenshots/minkowski\_sausage.png)
+![Minkowski Sausage](screenshots/minkowski_sausage.png)
 
 Tree:
-
-!\[Branching Tree](screenshots/branching\_tree.png)
+![Branching Tree](screenshots/branching_tree.png)
 
