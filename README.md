@@ -34,7 +34,7 @@ This feature allows the user to make more intricate patterns.
 
 *Principle:*
 
-Instead of drawing a pattern which can be drawn only continuously this allows the users to widen their patterns the turtle saves its position when it encounters \[ and goes back to its position when it reads ] allowing the user to make tree like patterns
+Instead of a pattern which can be drawn continuously this feature allows the users to widen their range of patterns,the turtle saves its position when it encounters [ and goes back to its position when it reads ] allowing the user to make tree like patterns
 
 ## How it actually works (the logic)
 
